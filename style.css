@@ -1,0 +1,14 @@
+.size{
+    width: 1400px;
+    height: 400px;
+}
+
+.space{
+    margin-right: 44px;
+}
+
+.left {
+    display: inline-block;
+    text-align: left;
+    width: 100%;
+ }
